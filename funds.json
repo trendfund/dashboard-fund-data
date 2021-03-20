@@ -1,0 +1,46 @@
+{
+  "trendfund": {
+    "funds": [
+      {
+        "code": "t1",
+        "exchanges": [
+          "ftx"
+        ]
+      },
+      {
+        "code": "t2",
+        "exchanges": [
+          "ftx"
+        ]
+      }
+      {
+        "code": "t3",
+        "exchanges": [
+          "ftx"
+        ]
+      },
+      {
+        "code": "t4",
+        "exchanges": [
+          "ftx", "deribit", "binance", "kraken"
+        ]
+      }
+    ]
+  },
+  "jiuyao": {
+    "funds": [
+      {
+        "code": "91_2014",
+        "exchanges": [
+          "jiuyao"
+        ]
+      },
+      {
+        "code": "91_2016",
+        "exchanges": [
+          "jiuyao"
+        ]
+      }
+    ]
+  }
+}
